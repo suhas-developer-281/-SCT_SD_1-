@@ -19,5 +19,6 @@ The project includes two versions of a temperature converter:
 ## 🖥️ How to Run
 
 ### CLI Version:
+Open terminal and type:
 ```bash
 python temp_converter.py
